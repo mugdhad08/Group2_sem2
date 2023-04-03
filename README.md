@@ -20,6 +20,22 @@ FYMCA Div : B Pritesh Lingraj - 1132220957 Mugdha Dahibhate - 1132220563 Gayatri
 
 ![Screenshot (216)](https://user-images.githubusercontent.com/65411765/229517496-9bcdb9e2-6927-4deb-8294-cf923d1d6812.png)
 
+<img width="957" alt="employers" src="https://user-images.githubusercontent.com/114714198/229539756-ae25cbcf-733f-4e37-ac01-e92e636863db.png">
 
+<img width="954" alt="employee register" src="https://user-images.githubusercontent.com/114714198/229539808-36c28fb3-8997-4cec-b33c-fe116e2e3415.png">
+<img width="956" alt="login" src="https://user-images.githubusercontent.com/114714198/229539839-4e240d82-fecd-40ae-aedd-2cacc2f2e394.png">
 
+<img width="958" alt="job" src="https://user-images.githubusercontent.com/114714198/229540528-b21a1b29-7cc7-4360-ac5e-3cd965445ffc.png">
+
+<img width="962" alt="job1" src="https://user-images.githubusercontent.com/114714198/229540603-cb7d9efb-4706-4ccd-b7a2-b873e78d4a02.png">
+<img width="962" alt="job2" src="https://user-images.githubusercontent.com/114714198/229540697-f4e4bdc9-8785-4a78-a210-fa3dce902d81.png">
+
+<img width="962" alt="job3" src="https://user-images.githubusercontent.com/114714198/229540819-fa33838f-25b1-496f-85e5-eb7a65f66991.png">
+<img width="962" alt="job4" src="https://user-images.githubusercontent.com/114714198/229540848-6bcf9539-bdf1-4c88-9308-bf6f58ef0213.png">
+<img width="962" alt="job5" src="https://user-images.githubusercontent.com/114714198/229540895-02b54a57-6680-46a3-9b4b-1957b78c9ccb.png">
+<img width="962" alt="application" src="https://user-images.githubusercontent.com/114714198/229540998-4aa864e1-aeba-4995-93c6-1d8627e0284e.png">
+<img width="962" alt="status" src="https://user-images.githubusercontent.com/114714198/229541060-dfab260e-9744-410f-a74b-cf97581d61b5.png">
+<img width="962" alt="status1" src="https://user-images.githubusercontent.com/114714198/229541110-a3b454e8-7c70-4491-bc8e-fff318296a5a.png">
+<img width="962" alt="status2" src="https://user-images.githubusercontent.com/114714198/229541199-eef89e51-ed77-4b93-b286-1b1c335901c7.png">
+<img width="962" alt="status accepted" src="https://user-images.githubusercontent.com/114714198/229541346-9ec06370-8b9b-4773-a8de-912f257c91e5.png">
 
